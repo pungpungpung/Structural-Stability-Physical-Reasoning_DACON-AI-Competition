@@ -1,1 +1,1 @@
-# Structural-Stability-Physical-Reasoning_DACON-AI-Competition
+# 구조물 안정성 물리 추론 AI 경진대회
